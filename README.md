@@ -1,2 +1,2 @@
-# roblox-matchmaking-server
+# ROBLOX Matchmaking - Server
 Matchmaking for ROBLOX, serversided.
